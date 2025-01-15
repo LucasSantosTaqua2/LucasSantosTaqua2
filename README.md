@@ -1,7 +1,6 @@
 ## Salve! Sou o Lucas, ou entre os mais intimos: Lusca
 
-- 🔭 Cursando Técnico em Desenvolvimento de Sistemas
-- 🌱 Estudando Desenvolvimento Web
+- 🔭 Cursando Técnologo em Desenvolvimento de Sistemas - Fatec Taquaritinga
 - ⚡ Procuro me especializar em Desenvolvimento Web
 
 <div align="center">
